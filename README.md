@@ -8,6 +8,6 @@
      - Title & Description
      - List of Movies
 # NetflixGpt :
-   Search Bar
-   Movie Suggestion
+    - Search Bar
+     -Movie Suggestion
   
