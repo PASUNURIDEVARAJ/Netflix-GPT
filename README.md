@@ -20,6 +20,7 @@
  - Planning for Main container and secondaryContainer
  - Fetch data for trailer video and updated store with video data
  - Embedded Youtube video and make it autoplay and mute
+ -Build Secondary Container
  
 
 # Features
