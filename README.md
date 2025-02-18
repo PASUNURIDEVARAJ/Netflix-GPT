@@ -24,6 +24,11 @@
  - Movie List 
  - movie Card 
  - Image CDN URL
+ - GPT SeacrhPage
+ - Gpt searchbar
+ - Added Multi-language feature
+ - Integrate GPT APIs
+ - Get Openai Key
  
 
 # Features
