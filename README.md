@@ -16,11 +16,14 @@
  - Registered TMDB API & created an app to get Token access
  - Get the data  from now playing movies list API 
  - Custom Hook for nowPlayingMovies
- - Updated the store with movies data
- - Planning for Main container and secondaryContainer
- - Fetch data for trailer video and updated store with video data
+ - Updated store with movies Data from TMDB API
+ - Planning for the Main container and Secondary Container
+ - Created the background movie trailer through TMDB API
  - Embedded Youtube video and make it autoplay and mute
- -Build Secondary Container
+ - updated Secondary Container with 
+ - Movie List 
+ - movie Card 
+ - Image CDN URL
  
 
 # Features
